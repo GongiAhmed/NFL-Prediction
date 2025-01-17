@@ -1,6 +1,9 @@
 # NFL Yardage Gain Prediction with PySpark
 
 This project uses PySpark to predict the yardage gained on NFL plays using the NFL Big Data Bowl 2020 dataset. The project demonstrates a basic Spark ML pipeline for data preprocessing, feature engineering, model training, and evaluation.
+<p align="center">
+  <img src="https://github.com/GongiAhmed/NFL-Prediction/blob/main/NFL%20Prediction/images/NFL.png" />
+</p>
 
 
 ## Dataset
